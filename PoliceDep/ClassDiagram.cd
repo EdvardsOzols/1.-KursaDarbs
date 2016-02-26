@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="Detain">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAEAAAAIQAEAAAABAAAACAAAAA=</HashCode>
+      <FileName>structure.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Offic">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAIBAAAAAAACAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>structure.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Depart">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>structure.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
